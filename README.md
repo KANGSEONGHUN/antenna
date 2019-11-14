@@ -1,2 +1,2 @@
 # antenna
-mimo antenna and uhf dipole antenna
+mimo antenna and uhf dipole antenna.
